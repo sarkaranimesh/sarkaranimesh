@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarkaranimesh
 - 👀 I’m interested in ...autonomous vehicles
 - 🌱 I’m currently learning ...computer vision using python
-- 💞️ I’m looking to collaborate on ...vehicle control porjects for autonomous tech
+- 💞️ I’m looking to collaborate on ...vehicle control projects for autonomous tech
 - 📫 How to reach me ...https://www.linkedin.com/in/animesh-sarkar/
 
 <!---
